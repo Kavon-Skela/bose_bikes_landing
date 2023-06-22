@@ -1,4 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://kavon-skela.github.io/bose_bikes_landing/)
+This is the landing for the store which sells bikes. This website was created using SCSS (BEM methodology, 12-column grid template), HTML, and a bit of Javascript. 
